@@ -1,0 +1,36 @@
+# Core libraries
+numpy
+scikit-learn
+
+# Web scraping and data extraction
+beautifulsoup4
+requests
+selenium
+
+# Web application
+fastapi
+fastapi-cache
+fastapi-limiter
+uvicorn
+jinja2
+pydantic
+
+# LLM Integration
+google-genai
+
+# Utilities
+joblib
+python-docx
+weasyprint
+python-dotenv
+webdriver-manager
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Authentication
+python-jose[cryptography]
+bcrypt==4.0.1
+python-multipart
